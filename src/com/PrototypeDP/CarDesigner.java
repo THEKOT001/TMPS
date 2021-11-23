@@ -12,7 +12,7 @@ import java.util.Random;
 public class CarDesigner {
     private static final Map<String, Car> carMap = new HashMap<>();
 
-    public static Car getCar(String name)
+    public static Car getCar(String  name)
     {
         return (Car) carMap.get(name).clone();
     }

@@ -1,6 +1,6 @@
 package com.FactoryMethodDP;
 
-import FactoryMethodDP.CarTypes.Car;
+import com.FactoryMethodDP.CarTypes.Car;
 
 public class Demo {
     public static void main(String[] args) {
